@@ -33,8 +33,7 @@ Explore Elite is a Bootstrap-powered landing page that combines sleek design wit
 1. Clone the repository.
 2. Open the `index.html` file in your browser to experience Explore Elite's landing page.
 
-**Contributing:**
-- Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
 Explore Elite - Where Bootstrap meets travel seamlessly. Start your exploration today!
-# Project View
+# Project View   
+ https://zahidrahimoon.github.io/Bootstrap5-Project/
+
