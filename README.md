@@ -1,39 +1,36 @@
-### Bootstrap HTML CSS Landing Page: Explore Elite
-Welcome to "Explore Elite," a visually stunning tourism landing page powered by Bootstrap.
+# AutoVision: Explore the Road Ahead
 
-**Overview:**
-Explore Elite is a Bootstrap-powered landing page that combines sleek design with user-friendly functionality, offering an immersive experience for users interested in exploring curated travel packages.
+<p align="left">AutoVision is a dynamic car landing page designed to showcase the latest in automotive innovation. With sleek design elements, interactive features, and stunning imagery sourced from Unsplash, it offers an immersive experience for car enthusiasts.</p>
+<img align="right" src="https://media0.giphy.com/media/PYBS7nNUQiCwU/200.webp?cid=790b76118fz8pd5br0kai0huqsltz48ipkvln7auxdft047a&ep=v1_gifs_search&rid=200.webp&ct=g" alt="coding" width="400">
 
-**Sections:**
 
-1. **Header:**
-   - A visually appealing and responsive header that sets the tone for the entire landing page.
+## Technologies Used
 
-2. **Introduction Section:**
-   - Welcome your users with an engaging introduction, providing a snapshot of what Explore Elite has to offer.
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- AOS library (Animate On Scroll)
 
-3. **Travel Packages:**
-   - Thoughtfully curated travel packages showcased with Bootstrap's responsive grid system, allowing users to explore and choose their dream destinations seamlessly.
+## Features
 
-4. **Destination Gallery:**
-   - An interactive gallery featuring stunning visuals of destinations, capturing the essence of each travel package through Bootstrap's versatile image display.
+- **Responsive Design:** Optimized for seamless viewing on all devices, ensuring a consistent experience for users.
+- **Interactive Cursor:** Enhance user engagement with an interactive cursor that responds to user actions.
+- **Modern Gallery:** Discover the beauty of automobiles with a modern gallery section, powered by pure JavaScript and featuring high-quality images from Unsplash.
+- **Navigation Bar:** Easily navigate through different sections of the landing page with a user-friendly navigation bar, including sections for Home, Products, Services, and the Modern Gallery.
+- **Animated Car:** A Git-powered animated car adorns the top right and left corners, adding a touch of dynamism to the page and drawing attention to key Technologies.
 
-5. **Booking Section:**
-   - Streamlined booking process with Bootstrap forms, ensuring a smooth and interactive user experience.
+## Usage
 
-6. **Footer:**
-   - A comprehensive footer providing essential information and navigation links, enhancing the overall user journey.
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in your preferred web browser.
 
-**Technologies Used:**
-- HTML for structuring the content.
-- CSS for styling and layout.
-- Bootstrap framework for a responsive and visually appealing design.
+## Credits
 
-**Getting Started:**
-1. Clone the repository.
-2. Open the `index.html` file in your browser to experience Explore Elite's landing page.
+- Bootstrap: [Link](https://getbootstrap.com/)
+- AOS Library: [Link](https://github.com/michalsnik/aos)
+- Unsplash: High-quality images sourced from Unsplash contributors.
 
-Explore Elite - Where Bootstrap meets travel seamlessly. Start your exploration today!
-# Project View   
-Demo : [Project View](https://zahidrahimoon.github.io/Bootstrap5-Project/)
+## Project Preview
 
+Explore the live version of AutoVision [here](https://zahidrahimoon.github.io/AutoVista/)!
